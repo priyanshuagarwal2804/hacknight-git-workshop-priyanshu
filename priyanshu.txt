@@ -1,1 +1,2 @@
 hi this is something in my text file
+this is the new line
